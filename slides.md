@@ -1,7 +1,6 @@
 <!-- .slide: data-background-image="img/6_definition05.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
 
-## Éditorialiser le passé
+## Archive et patrimoine à l’heure numérique : éditorialiser le passé
 
 ===
 
@@ -50,17 +49,30 @@ un bot qui tweete plusieurs fois par jour des extraits traduits de l'Anthologie 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/gifItUp.gif" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+#### Le patrimoine en ligne
+* interactivité
+* détournement / jeu
+* mutation du sens de l'archive
+* mutation du concept de passé                                        
 
 ===
 
 Le web regorge ainsi de ressources patrimoniales placées sous le signe de l'interactivité, du détournement, du jeu et de la créativité. Ces objets, qui posent évidemment de nombreuses questions en termes heuristiques, témoignent d'une nouvelle manière d'aborder et même de comprendre la notion de patrimoine. Une mutation du sens même de l'archive, du document, de l'oeuvre, mais plus largement et plus fondamentalement sans doute du concept de passé, tel que notre culture numérique peut le remédiatiser et par conséquent le redéfinir.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/gallicaAccueil.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 #### Du paradigme de l'accès...
+* Une numérisation massive mais...
+  - une pertinence à démontrer
+  - une qualité critiquée
+  - des modèles économiques problématiques
+  - numériser, et après ?
 
-===
+===           
 
 Mais n'allons pas trop vite en besogne. Revenons si vous le voulez bien quelques années en arrière, au moment où les technologies numériques comment à se démocratiser, et où chaque foyer se dote d'un ordinateur.
 
@@ -77,19 +89,22 @@ En s'appuyant sur une volonté manifeste de sauvegarder et de partager des colle
 
 - problème de l'ouverture et du modèle économique. À l'INA, ce sont des abonnements. Retronews, le service d'archive des journaux de la BNF, fonctionne aussi sur abonnement. Certains contenus sont payants et d'autres non.
 
-Le paradigme de l'accès est donc essentiel, mais on voit qu'il ne suffit pas à lui seul. "Donner accès" n'a de sens que si l'on se demande: pour quoi faire exactement ??? À présent que des millions de documents sont mis en ligne à la disposition de tous (ou presque), se pose une question épineuse et vertigineuse : que faire de tout ce patrimoine numérisé ?
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/archivesnationales.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/chiffresGallicamai2021.png" data-background-size="contain" -->
 
 #### ... à celui de la circulation
 
 ===
 
-Un nouveau chantier pratique et théorique s'ouvre désormais du côté des enjeux et des modalités de circulation des patrimoines en ligne.
+Le paradigme de l'accès est donc essentiel, mais on voit qu'il ne suffit pas à lui seul. "Donner accès" n'a de sens que si l'on se demande: pour quoi faire exactement ??? À présent que des millions de documents sont mis en ligne à la disposition de tous (ou presque), se pose une question épineuse et vertigineuse : que faire de tout ce patrimoine numérisé ?
+
+Un nouveau chantier pratique et théorique s'ouvre désormais du côté des enjeux et des modalités de circulation des patrimoines en ligne. Le paradigme de la circulation déplace l'enjeu de l'accès vers un enjeu d'"ouverture".
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/chiffresGallicamai2021.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
 
 ### Problématiques
 * L'archive ouverte... jusqu'où ?
@@ -97,7 +112,8 @@ Un nouveau chantier pratique et théorique s'ouvre désormais du côté des enje
 * Quelle légitimité ?
 
 ===
-Le paradigme de la circulation déplace l'enjeu de l'accès vers un enjeu d'"ouverture".
+
+Avec toute une série de problématiques..
 
  Quelles médiations imaginer pour valoriser ces oeuvres en ligne, sans en trahir la pertinence ni le sens ? Quels modèles économiques pour faire vivre, entretenir ce patrimoine qui s'est comme "dédoublé" -- comptant une version analogique et une version numérique ? Comment repenser la fonction voire l'autorité des institutions patrimoniales dont les services numériques prennent une place croissante ? Mais aussi, comment et jusqu'où ces collections peuvent-elles aller "entre les mains" du "grand public" ?
 
@@ -118,6 +134,7 @@ Bref, c'est tout l'enjeu du principe d'éditorialisation: une ouverture des cont
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/benoiteGroultTranscrire.png"  -->
+<!-- .slide: class="hover"-->
 
 ### L'éditorialisation comme acte de patrimonialisation
 * Repenser la mission des institutions patrimoniales
@@ -133,7 +150,8 @@ Précisons un point théorique essentiel: une archive, contrairement à ce que l
 Comprenons bien : en ouvrant les collections numérisées à l'éditorialisation, c'est potentiellement le sens même de la mission patrimoniale qui tend à se reconfigurer. Au centre de cette reconfiguration, le passage d'une logique de l'usage à une logique des pratiques travaille à redéfinir les objets patrimoniaux -- les documents, les archives, les œuvres... -- de même que les concepts que recouvre la patrimonialisation -- la médiation, la transmission, le passé, la culture savante, la culture populaire. En d'autres termes : l'éditorialisation offre une occasion idéale pour réévaluer de grands concepts disciplinaires sur lesquels se sont fondées les politiques institutionnelles, pédagogiques, mais aussi notre imaginaire collectif.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/archivesnationales.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/inaInsta1.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ## L'archive éditorialisée
 * Ouverture dans le temps
@@ -146,10 +164,14 @@ L'éditorialisation vient désigner des dynamiques processuelles mises en place 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/archivesnationales.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/1jour1poilu.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### L'ouverture dans le temps : l'archive performée (3.0)
 >“First, this kind of archive is an object and a process, but often also an artwork, a monument, an autobiography, a platform, and so forth. Second, it is often performative, and it could be more or less interactive, immersive, and pervasive. Third, it is not only deriving from (being born out of) another archive, but it is also frequently aware of the problematics of its own documentation. Fourth, the archive offers a multiplicity of viewing platforms to replay or even rewrite the past (sometimes through crowdsourcing), and capture the present through both old and new technologies. In this sense in Archive 3.0 we may have multiple identities, not only as users and producers of knowledge but also as performers or spectators, subjects, or objects.” (Giannachi 2016, 21)
+
+<!-- .element: style="font-size:1.4rem" -->
+
 
 ===
 
@@ -199,7 +221,7 @@ Une ouverture dans l'espace : corollairement à la proposition précédente, la 
 Il s'agit de l'un des exemples où la perte de contrôle de l'institution en tant qu'institution est très forte. Étudiants ne sachant pas ce qu'est l'INA, mais me disant "mais si je l'ai sur mon Insta ou mon Twitter".
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/Enccreencyclopedie.png" data-background-size="contain" -->
 
 ### Une relation stigmergique entre techniques et pratiques : l'archive révélée ?
 
@@ -220,8 +242,7 @@ L’Encyclopédie de Diderot et d'Alembert constitue un bon exemple de ce phéno
 Par delà son caractère polémique, cette question est probablement plus intéressante que la réponse qu'on pourrait y apporter -- et sur laquelle je ne prendrai pas le risque de me prononcer, laissant aux véritables spécialistes le soin d'apporter leur éclairage (cf. Benoît Melançon, "Sommes-nous les premiers lecteurs de l'Encyclopédie ?"). Elle incarne en effet une idée fondamentale pour penser le concept d'éditorialisation, notamment dans le cadre de notre réflexion sur les patrimoines numérisés : bien plus qu'un moyen de diffusion, le support technique incarne le sens de l'oeuvre qu'il accueille. Il s'agit ainsi de souligner combien le fond et la forme sont indissociables, pour défendre une véritable heuristique du support. Éditorialiser, c'est en ce sens penser une solution technique et médiatique de diffusion du patrimoine qui incarne l'oeuvre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
 ### Une dynamique collective : tous historiens ?
 
@@ -234,64 +255,100 @@ Mais une autre question: tout le monde a-t-il les compétences ? Dans les projet
 
 Enfin, en ludifiant des pratiques autrefois très pénibles : transcription, indexation etc. ne sommes-nous pas face à du digital labour ?
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Cas pratique : éditorialiser l'Anthologie Palatine
 
 ===
 
-L'édition numérique de l'Anthologie Palatine est un projet mené sous la houlette de Marcello Vitali-Rosati, titulaire de la Chaire de recherche du Canada sur les écritures numériques, dont on a déjà mentionné les travaux structurants sur le concept d'éditorialisation. Loin de toute prétention prescriptive, j'ai choisi cet exemple car je suis impliquée dans le projet depuis ses débuts : ce que je propose ici relève donc d'abord du retour d'expérience (on trouvera par ailleurs une description détaillée du projet dans un article de la revue DHQ, "Editorializing the Greek Anthology: The palatin manuscript as a collective imaginary"). Ce projet illustre la façon dont le concept d'éditorialisation permet de repenser à la fois les objets patrimoniaux traditionnels, mais aussi les méthodologies attachées à leur médiation, de manière à proposer de nouvelles formes et philosophies patrimoniales.
+L'édition numérique de l'Anthologie Palatine est un projet mené sous la houlette de Marcello Vitali-Rosati. Ce projet illustre la façon dont le concept d'éditorialisation permet de repenser à la fois les objets patrimoniaux traditionnels, mais aussi les méthodologies attachées à leur médiation, de manière à proposer de nouvelles formes et philosophies patrimoniales.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/heidelberg.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Qu'est-ce que l'Anthologie Palatine ?
 
 ===
-L'Anthologie Palatine est un recueil d'épigrammes grecques dont la composition a été initiée au premier siècle avant J.-C par Méléagre de Gadara. Sa valeur patrimoniale est inestimable : c'est grâce à cet ouvrage que certains poèmes de l'Antiquité grecque sont parvenus jusqu'à nous. La quasi-totalité de cette anthologie est compilée dans le Codex Palatinus 23, conservé à la bibliothèque d'Heidelgerg qui en a proposé une numérisation en libre accès. Ce manuscrit a connu plusieurs transcriptions et traductions au cours de son histoire, sans que les scholies -- ces commentaires en marge du texte -- ne soient systématiquement intégrées à ces traductions. Comme dans n'importe quelle entreprise d'édition critique, l'un des objectifs du projet AP est donc la transcription de ces éléments, ainsi que la traduction en plusieurs langues de l'ensemble du texte : nous avons pour cela fait le choix d'un modèle contributif, ouvert à tous. Mais l'objectif le plus essentiel consiste à proposer une édition qui respecte d'abord le projet anthologique lui-même : une forme médiatique conçue pour conserver et relier entre eux des fragments poétiques. Une forme par nature hétérogène (littéralement, l'anthologie désigne une "couronne de fleurs" et rassemble des textes selon des liens thématiques, stylistiques, génériques, etc.), instable et processuelle (l'anthologie connait plusieurs compilateurs qui vont l'augmenter au fil des siècles, dessinant de nouveaux liens à travers leurs commentaires, les fameuses scholies). En un mot : une forme qui relève déjà d'une logique d'éditorialisation du patrimoine littéraire.
+L'Anthologie Palatine est un recueil d'épigrammes grecques dont la composition a été initiée au premier siècle avant J.-C par Méléagre de Gadara.
+
+Sa valeur patrimoniale est inestimable : c'est grâce à cet ouvrage que certains poèmes de l'Antiquité grecque sont parvenus jusqu'à nous. La quasi-totalité de cette anthologie est compilée dans le Codex Palatinus 23, conservé à la bibliothèque d'Heidelgerg qui en a proposé une numérisation en libre accès.
+
+Ce manuscrit a connu plusieurs transcriptions et traductions au cours de son histoire, sans que les scholies -- ces commentaires en marge du texte -- ne soient systématiquement intégrées à ces traductions.
+
+Comme dans n'importe quelle entreprise d'édition critique, l'un des objectifs du projet AP est donc la transcription de ces éléments, ainsi que la traduction en plusieurs langues de l'ensemble du texte : nous avons pour cela fait le choix d'un modèle contributif, ouvert à tous.
+
+Mais l'objectif le plus essentiel consiste à proposer une édition qui respecte d'abord le projet anthologique lui-même : une forme médiatique conçue pour conserver et relier entre eux des fragments poétiques. Une forme par nature hétérogène (littéralement, l'anthologie désigne une "couronne de fleurs" et rassemble des textes selon des liens thématiques, stylistiques, génériques, etc.), instable et processuelle (l'anthologie connait plusieurs compilateurs qui vont l'augmenter au fil des siècles, dessinant de nouveaux liens à travers leurs commentaires, les fameuses scholies). En un mot : une forme qui relève déjà d'une logique d'éditorialisation du patrimoine littéraire.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/heidelberg.png" data-background-size="contain" -->
+
+#### Première étape : désessentialiser l'AP
 
 ===
 C'est à partir de ce constat que le projet opère un premier écart avec l'édition critique traditionnelle : notre démarche s'éloigne de l'idéal de "vérité du texte" pour chercher ce qui, dans la forme médiatique de ce texte, nous semble incarner une certaine idée du fait littéraire. La première étape du projet a donc consisté à désessentialiser notre objet. Cette désessentialisation de l'AP nous a conduits à cesser de la considérer comme une "oeuvre" -- du moins, dans le sens institutionnel du terme, une "unité" textuelle stable et autonome -- pour la comprendre avant tout comme un imaginaire collectif dynamique et ouvert. Par delà une fonction de conservation et d'institutionnalisation, l'AP a en effet mis au jour des topoï littéraires qui ont ensuite traversé l'histoire de la littérature, et influencé des générations de poètes.
 
-Pour bien comprendre ce glissement d'une fonction de conservation vers une fonction poétique, penchons-nous sur le texte. À l'origine, la fonction de l'AP consiste à collecter et à organiser des épigrammes, soit, si l'on s'attache au sens littéral du terme, des inscriptions réelles gravées sur des supports durables (autrement appelées épigrammes épigraphiques) : l'exemple le plus évident est celui des épitaphes qui ornent les stèles funéraires. Or à ces authentiques inscriptions se sont rapidement ajoutées des épigrammes "fictives", ou "littéraires", forgées par des poètes pour s'intégrer dans l'Anthologie, donnant ainsi lieu à un véritable jeu littéraire. L'épigramme funéraire est alors devenue un genre ou un sous-genre poétique : Simonide de Kéos en composera toute une série pour louer les soldats tombés lors de la célèbre bataille des Thermopyles, par exemple. Les épigrammes funéraires de l'AP inspireront des dizaines de générations d'écrivains, de Clément Marot à Chateaubriand (Verlet p. 290), sans parler des topoï qu'elles structurent et relaient et qui émaillent l'histoire de la littérature : le carpe diem, l'hommage aux poètes disparus, etc. Ces liens "faibles", qui n'explicitent pas toujours l'héritage anthologique, témoignent de l'imprégnation de ce patrimoine littéraire antique au sein des différentes cultures littéraires occidentales, jusqu'au XXIe siècle -- j'y reviendrai dans un instant.
-
 En déplaçant notre attention du texte à la forme anthologique, nous avons conclu que cette dernière se refuse par essence à toute clôture, et encourage au contraire un enrichissement continuel du texte et de ses renvois. L'éditer signifie donc essayer de rendre compte de cette circulation millénaire, de la diversité du matériel impliqué ainsi que de la richesse et de l’hétérogénéité des renvois entre les textes. Mais quel format éditorial est capable non seulement de rendre compte de cet imaginaire, mais aussi d'en permettre la perpétuation ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/heidelberg.png" data-background-size="contain" -->
+
+#### 2e étape : s'extraire de l'édition critique
 
 ===
 Désessentialiser l'AP ne suffisait pas : rapidement, nous avons compris qu'il fallait aussi nous défaire de certains réflexes méthodologiques et techniques attachés à l'édition critique, y compris l'édition critique numérique.
 
 Certes, de nombreuses éditions en ligne ont profité du potentiel technique des formats numériques pour proposer des systèmes de visualisation des différentes versions d'un même texte. Mais notre problématique est encore un peu différente : l'"ouverture" du texte, pour nous, signifiait permettre la réappropriation et les manipulations du matériel textuel en ligne. De plus, là où une édition critique en bonne et due forme, réalisée par des philologues, aurait eu tendance à établir le texte selon des standards éditoriaux (dans le cas d'une édition numérique, le format XML) pour en retenir une version stable qui fasse "autorité", nous cherchions un format d'abord capable de rendre compte des phénomènes d'intertextualité propres à l'Anthologie, mais aussi d'en proposer des prolongements et des augmentations possibles.
 
-L'éditoralisation nous est apparue comme une solution conceptuelle et pratique idéale pour rendre compte de cet esprit anthologique. Parce qu'elle n'est pas un processus clos, mais une dynamique ouverte, l'éditorialisation permet aux contenus qui circulent dans les environnements numériques d'être sans cesse repris, modifiés, réutilisés pour remplir d'autres objectifs. Elle est par ailleurs un processus éditorial collectif, tout comme dans l'Anthologie -- par delà même sa polyphonie -- déploie une autorité partagée, reposant sur la stratification des contributions explicites ou implicites de ses compilateurs.
-
-Nous avons ainsi fait le choix de déposer nos transcriptions et traductions sur une base de données ouverte baptisée Anthologia, interrogeable par une API. Parce qu'il favorise l'agrégation et la réorganisation de fragments sélectionnés par un auteur ou compilateur, ce modèle nous apparaît particulièrement fidèle à l'esprit anthologique. Le choix de l'API n'a pas été la seule "entorse" au modèle de l'édition critique numérique. Là où les standards encouragent plutôt largement une structuration arborescente des données en XML, nous avons opté pour un format "à plat" JSON, plus propice à l'appropriation et à la réorganisation des contenus.
+Nous avons ainsi fait le choix de déposer nos transcriptions et traductions sur une base de données ouverte baptisée Anthologia, interrogeable par une API. Parce qu'il favorise l'agrégation et la réorganisation de fragments sélectionnés par un auteur ou compilateur, ce modèle nous apparaît particulièrement fidèle à l'esprit anthologique. [Le choix de l'API n'a pas été la seule "entorse" au modèle de l'édition critique numérique. Là où les standards encouragent plutôt largement une structuration arborescente des données en XML, nous avons opté pour un format "à plat" JSON, plus propice à l'appropriation et à la réorganisation des contenus.]
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/anthologie1.png" data-background-size="contain" -->
+
+#### 3e étape : multiplier et ouvrir les versions
+
+===
+
+L'objectif était de permettre la réappropriation et la multiplication des versions possibles de l'AP.
+
+Par exemple, à partir d'Anthologia, nous avons réalisé un premier affichage permettant de visualiser toutes les informations disponibles sur la base de manière exhaustive (cf. l'exemple de cette épigramme funéraire attribuée à Dioscoride d'Alexandrie). Ce premier affichage, que l'on qualifiera de "savant", s'adresse à un public spécialisé : on y agrège une série de données et de métadonnées (références dans le MS, url perseus, etc.), mais aussi toutes les traductions disponibles que nous avons pu récupérer ou produire, dans de multiples langues.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/anthologie1.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/anthologie2.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/anthologie3.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/900px-APpromenadeCimetiere.png" data-background-size="contain" -->
 
 
 ===
 
-Par exemple, à partir d'Anthologia, nous avons réalisé un premier affichage permettant de visualiser toutes les informations disponibles sur la base de manière exhaustive (cf. l'exemple de cette épigramme funéraire attribuée à Dioscoride d'Alexandrie). Ce premier affichage, que l'on qualifiera de "savant", s'adresse à un public spécialisé : on y agrège une série de données et de métadonnées (références dans le MS, url perseus, etc.), mais aussi toutes les traductions disponibles que nous avons pu récupérer ou produire, dans de multiples langues. Évidemment, une telle lecture peut paraître aride pour qui souhaite profiter du texte. Nous avons donc mis en place des systèmes de navigation par parcours de lectures thématiques (ces parcours étant pensés justement pour mettre en récit des groupes d'épigrammes): évidemment, nous avons conçu un parcours consacré aux épigrammes funéraires, intitulé "promenade au cimetière". Ces parcours peuvent être visualisés via une autre plateforme, baptisée "POP",conçue par des étudiants de l'école HETIC (des étudiants peu sensibilisés aux enjeux de l'édition savante, mais disposant de compétences en design numérique, qui se sont immédiatement emparés des textes pour proposer une interface de lecture).
+Évidemment, une telle lecture peut paraître aride pour qui souhaite profiter du texte. Nous avons donc mis en place des systèmes de navigation par parcours de lectures thématiques (ces parcours étant pensés justement pour mettre en récit des groupes d'épigrammes).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/900px-APpromenade2.png" data-background-size="contain" -->
+
+Ces parcours peuvent être visualisés via une autre plateforme, baptisée "POP",conçue par des étudiants de l'école HETIC (des étudiants peu sensibilisés aux enjeux de l'édition savante, mais disposant de compétences en design numérique, qui se sont immédiatement emparés des textes pour proposer une interface de lecture).
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/tweetbotAP.png" data-background-size="contain" -->
+
 
 ===
 Enfin, les épigrammes ont un temps été relayée par tweet bot qui postait sur les réseaux sociaux des traductions en les associant avec l'image correspondante du manuscrit. Le compte est cependant suspendu depuis quelques semaines pour avoir enfreint les règles d'utilisation de Twitter, sans que l'on sache exactement lesquelles (le réseau social n'a pas répondu à nos messages). L'éditorialisation, on le constate, n'est pas toujours sans risque.
@@ -300,8 +357,7 @@ Ainsi, nos choix techniques permettent une réappropriation de l'anthologie selo
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/tweetbotAP.png" data-background-size="contain" -->
 
 ### Éditorialisation et rééditorialisation de l'AP : un travail d'amateur
 
@@ -310,20 +366,12 @@ L'ouverture de ces données prend surtout sens à travers la redéfinition du ra
 
 Le projet Anthologie Palatine est fondamentalement et résolument un travail d'amateur : très peu de "véritables" philologues (outre Elsa Bouchard, de l'UDEM, et Gregory Crane, de Tuft University) y ont en effet pris part. Notre équipe présente des profils très hétérogènes, principalement littéraires mais pas seulement, avec des compétences avérées en grec ancien, sans être pour autant des spécialistes de cette langue. Surtout, le choix du modèle contributif nous a amenés à impliquer des lycéens dans le travail de transcription et de traduction du texte grec. Je n'insisterai pas sur cet aspect pédagogique du projet qui a fait l'objet d'une description dans DHQ, pour m'intéresser à la façon dont le produit de notre travail a pu lui-même faire l'objet de réappropriations. En d'autres termes : notre travail d'éditorialisation a-t-il bien fonctionné ?
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
-
-===
-
 Force est de constater que notre dispositif BDD/API n'a pas (encore) rencontré un large public. À notre connaissance, nos contenus n'ont pas fait l'objet d'une ré-éditorialisation via ce système. Il y a là matière à réflexion : l'appropriabilité n'est peut-être pas qu'une question d'ouverture des contenus, mais aussi de maniabilité des outils de gestion de ces contenus. Notre API, en ce sens, est un dispositif théoriquement vertueux, mais pratiquement complexe.Son usage demande une compétence technique qui fait défaut au public visé par notre dispositif d'éditorialisation.
 
 Les solutions "low-tech" apparaissent donc comme l'ingrédient essentiel d'une éditorialisation réussie. Une expérience pédagogique, menée dans le cadre d'un atelier en édition numérique codirigé par Margot Mellet (coordonnatrice du projet) et moi-même à l'Université de Montréal, nous l'a récemment confirmé. Cet atelier avait pour principal objectif la prise en main d'un outil de visualisation et d'éditorialisation "grand public" : en l'occurrence, les outils Timeline.JS et StoryMaps réalisés par le Knight Lab. Puisqu'il nous fallait des données avec lesquelles jouer, nous avons directement fourni aux étudiant.e.s les liens de nos parcours de lecture sur la plateforme AP-POP, et nous leur avons donné carte blanche. Les résultats ont été très satisfaisants. Un groupe, en particulier, a pris l'initiative de republier via StoryMaps les épigrammes mortuaires du parcours "promenade au cimetière" sur une carte du cimetière du Mont-Royal. En soit très simple, et peu spectaculaire techniquement, cette rééditorialisation est venue confirmer notre hypothèse de départ concernant l'esprit anthologique et l'imaginaire littéraire, en parvenant tout à la fois à s'inscrire et à prolonger l'intertexte palatin.
 
-Pour bien comprendre ce qui s'est passé ici, reprenons une dernière fois notre exemple des épigrammes funéraires. Aux XXe et XXIe siècle, l'influence de l'Anthologie Palatine est toujours bien présente. En 1915, le poète américain Edgar Lee Masters fait paraître Spoon River Anthology. L'ouvrage, que l'on pourrait qualifier de "roman anthologique", est une collection d'épitaphes fictives décrivant en quelques vers la vie des habitants du village imaginaire de Spoon River. Le cimetière de Spoon River fait ainsi apparaître les destins croisés de ses habitant à travers un jeu dialogique -- les amants maudits y expriment leurs regrets, les victimes dénoncent leurs meurtriers, les politiciens révèlent leurs mauvaises actions -- où s'esquisse un portrait de la vie rurale aux États-Unis au début du siècle dernier. En rééditorialisant les épigrammes de l'Anthologie Palatine sur une carte du cimetière du Mont-Royal, c'est le dispositif de Spoon River qu'ont inconsciemment rejoué les étudiantes. Elles ont ainsi fait la démonstration, en 1 heure à peine, et presque malgré elles, d'une dimension latente de l'intertextualité, et nous ont ainsi livré une belle leçon de littérature.
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/googlebooks.png" data-background-size="contain" -->
 
 ## Archives en ligne : de l'institution patrimoniale aux institutions du web
 
@@ -356,14 +404,17 @@ Les rétrospectives que Google réalise chaque année à travers un montage en i
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Google.mp4" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
 
+
+>Nous nous fions à l’institution. Alors pourquoi ne pas nous fier aux usagers ? Le détail, sans doute essentiel, est que la distinction entre les deux n’est pas suffisamment mise en valeur. La confusion entre institution et usagers se fait assez rapidement par manque d’attention durant la navigation (Matteo Treleani, Qu'est-ce que le patrimoine numérique, p.72).
 
 ===
 
 
-Dans son ouvrage Qu'est-ce que le patriomine numérique, Matteo Treleani mentionne par exemple le cas d’une vidéo publiée sur YouTube par l’Instituto Luce, et dont l’un des contenus associés (dans les suggestions de lecture) a été posté par un usager qui, lui, fait l’apologie du fascisme… Nous avons tous une anecdote de ce type en tête. Ces cas limites posent la question de la légitimité des contenus et, surtout, celle de leurs auteurs et de leurs diffuseurs :
+Dans son ouvrage Qu'est-ce que le patrimoine numérique ? Matteo Treleani mentionne par exemple le cas d’une vidéo publiée sur YouTube par l’Instituto Luce, et dont l’un des contenus associés (dans les suggestions de lecture) a été posté par un usager qui, lui, fait l’apologie du fascisme… Nous avons tous une anecdote de ce type en tête. Ces cas limites posent la question de la légitimité des contenus et, surtout, celle de leurs auteurs et de leurs diffuseurs :
 
->Nous nous fions à l’institution. Alors pouquoi ne pas nous fier aux usagers ? Le détail, sans doute essentiel, est que la distinction entre les deux n’est pas suffisamment mise en valeur. La confusion entre institution et usagers se fait assez rapidement par manque d’attention durant la navigation (72).
+>Nous nous fions à l’institution. Alors pourquoi ne pas nous fier aux usagers ? Le détail, sans doute essentiel, est que la distinction entre les deux n’est pas suffisamment mise en valeur. La confusion entre institution et usagers se fait assez rapidement par manque d’attention durant la navigation (72).
 
 35En d’autres termes, le problème n’est peut-être pas tant l’autorité des anciennes institutions que celle des grandes plateformes numériques : YouTube, mais aussi Facebook, Twitter, etc., sont d’ailleurs régulièrement critiquées pour le manque de garanties qu’elles offrent. Mais c’est encore un autre problème que celui de la légitimité que les usagers accordent à ce type de plateformes. Car ce nouveau pouvoir des médiations n’est peut-être pas totalement une fatalité si l’on s’attache à mieux les comprendre et à les rendre plus transparentes. Pour cela, il est urgent d’augmenter notre littératie numérique à tous : un tel projet pourrait être pris en charge par l’archéologie expérimentale des médias, par exemple.
 
@@ -377,13 +428,13 @@ Dans son ouvrage Qu'est-ce que le patriomine numérique, Matteo Treleani mention
 À quoi sert donc encore la mémoire dans un univers où tout est stocké et rendu (en apparence) accessible ? L’oubli est-il un risque définitivement dépassé, au point d’être devenu un droit à conquérir ? Si l’on peut louer l’ouverture et la diffusion massive des archives, qui ont littéralement envahi notre quotidien, un paradoxe ne tarde pas à surgir : à vouloir ainsi « s’approprier […] quelque chose qui garde tout son intérêt précisément dans le fait de différer du présent », n’est-on pas en train de modifier profondément le passé - dont l’écart, la différence, l’étrangeté ne cessent de se réduire ? Si le profil Facebook d’un poilu comprend une valeur heuristique certaine, et permet à toute une génération de s’approprier des documents, une histoire, une mémoire, l’anachronisme d’un tel dispositif a forcément un impact sur la représentation et l’expérience du temps. Tandis que l’analogie entre « appropriation des archives » et « appropriation du passé » ne cesse de grandir, on peut s’interroger finalement sur les conséquences épistémologiques de cette nouvelle forme de « domestication du temps ».
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/inaActu.png" data-background-size="contain" -->
 
 ===
 Le numérique, à cet égard, conclut un mouvement d’invasion et de gestion de notre quotidien qui a en fait traversé toute l’histoire des technologies et des médias modernes. Depuis l’invention de l’électricité, qui nous a « permis » de travailler de plus longues journées, jusqu’à celle de l’IPhone qui nous a rendus joignables et disponibles en tout temps, nous nous sommes progressivement laissés aller à une « mobilisation totale5 » pour reprendre le concept de Ferraris (2014). Nos villes contemporaines, fonctionnant 24h/24, 7j/7, encouragent la perception d’un temps continu, voire d’un non-temps. Si, en apparence, cette présentification semble inconciliable avec la nature même de l’archive - qui se situe d’abord, comme on l’a vu, dans une tension entre passé et présent - l’inflation patrimoniale (Heinich 2009) à laquelle nous avons assisté ces dernières années relève surtout d’une forme de présentisme : « le fait de “tout archiver” est une manière de présentifier le passé, de le rendre matériellement disponible dans le présent, mais elle se développe aussi dans la singularité du rapport au passé. » (p. 84)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/myGoogleSearchHistory.png" data-background-size="contain" -->
 
 
 ===
@@ -391,9 +442,14 @@ Le numérique, à cet égard, conclut un mouvement d’invasion et de gestion de
 Ainsi domestiqué et numérisé, le passé n’est-il pas amputé de sa signification essentielle ? On peut en effet s’inquiéter de voir peu à peu s’effacer l’étrangeté du temps passé - ce sentiment d’un monde disparu rendu inaccessible en raison de notre inscription dans le présent, « cette forme de distance qui nous sépare et, en même temps, nous permet de saisir un autre monde que le nôtre » (p. 90). Il en va de même pour l’oubli, « impensé et impensable de la technique et de la culture numérique » (Doueihi, 2001, 155), que nous avons lui-même cherché à oublier. L’idée, bientôt la conviction, que rien ne s’effacerait sur le web, que la moindre trace y resterait à jamais inscrite, et que ces traces sont le réel, s’est vite répandue dans les esprits. Or « [e]nvisager le tout-archive comme une mémoire sans perte est le véritable problème », autant parce que cette pensée pèche par excès de confiance en la mémoire supposée exhaustive du web (la nouvelle mythologie du big data par exemple), que parce que la mémoire n’a, par définition, aucun intérêt sans l’activité herméneutique qui permet d’en extraire un sens.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mcdonalds-bigmac-indemodable-1980x762.jpg" data-background-size="contain" -->
 
 
 ===
 
 On se posera enfin une dernière question : si l’archive n’est pas tant une représentation qu’une construction, alors la redéfinition contemporaine du concept de passé - qui passe notamment par de nouvelles formes de gestion des archives - vient surtout produire des représentations plus ou moins inédites de nous-mêmes (de nos sociétés, du monde, de l’humanité). Or ces représentations doivent, elles aussi, être analysées, questionnées, critiquées. Leur origine doit être soigneusement identifiée et disséquée. Dans sa rétrospective annuelle, il est ainsi évident que Google opère un choix parmi une série de récits et d’autoreprésentations. Google n’est certainement pas dupe de l’objectivité prônée dans son discours : le monde tel qu’il apparaît dans ces capsules vidéo de deux minutes vient mettre en avant, avec beaucoup d’exaltation d’ailleurs, certaines valeurs plus que d’autres. Ce que réalise ici Google, nos institutions patrimoniales traditionnelles pourraient-elles seulement le faire avec la même efficacité ? Il s’agit là en tout cas d’une mission fondamentale, à laquelle une réponse collective doit être donnée.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/rondepierre.png" data-background-size="contain" -->
+
+## Merci !
