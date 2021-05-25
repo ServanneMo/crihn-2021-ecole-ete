@@ -91,6 +91,7 @@ En s'appuyant sur une volonté manifeste de sauvegarder et de partager des colle
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/chiffresGallicamai2021.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 #### ... à celui de la circulation
 
@@ -242,7 +243,7 @@ L’Encyclopédie de Diderot et d'Alembert constitue un bon exemple de ce phéno
 Par delà son caractère polémique, cette question est probablement plus intéressante que la réponse qu'on pourrait y apporter -- et sur laquelle je ne prendrai pas le risque de me prononcer, laissant aux véritables spécialistes le soin d'apporter leur éclairage (cf. Benoît Melançon, "Sommes-nous les premiers lecteurs de l'Encyclopédie ?"). Elle incarne en effet une idée fondamentale pour penser le concept d'éditorialisation, notamment dans le cadre de notre réflexion sur les patrimoines numérisés : bien plus qu'un moyen de diffusion, le support technique incarne le sens de l'oeuvre qu'il accueille. Il s'agit ainsi de souligner combien le fond et la forme sont indissociables, pour défendre une véritable heuristique du support. Éditorialiser, c'est en ce sens penser une solution technique et médiatique de diffusion du patrimoine qui incarne l'oeuvre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/etoileDuSud.png" data-background-size="contain" -->
 
 ### Une dynamique collective : tous historiens ?
 
@@ -256,11 +257,13 @@ Mais une autre question: tout le monde a-t-il les compétences ? Dans les projet
 Enfin, en ludifiant des pratiques autrefois très pénibles : transcription, indexation etc. ne sommes-nous pas face à du digital labour ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/etoileDuSud.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/hackathon.png" data-background-size="contain" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/codexPalatinus.png" data-background-size="contain" -->
 
 ## Cas pratique : éditorialiser l'Anthologie Palatine
 
@@ -270,13 +273,16 @@ L'édition numérique de l'Anthologie Palatine est un projet mené sous la houle
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/heidelberg.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/codexPalatinus.png" data-background-size="contain" -->
 
 ## Qu'est-ce que l'Anthologie Palatine ?
 
 ===
 L'Anthologie Palatine est un recueil d'épigrammes grecques dont la composition a été initiée au premier siècle avant J.-C par Méléagre de Gadara.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/heidelberg.png" data-background-size="contain" -->
+
 
 Sa valeur patrimoniale est inestimable : c'est grâce à cet ouvrage que certains poèmes de l'Antiquité grecque sont parvenus jusqu'à nous. La quasi-totalité de cette anthologie est compilée dans le Codex Palatinus 23, conservé à la bibliothèque d'Heidelgerg qui en a proposé une numérisation en libre accès.
 
@@ -289,6 +295,7 @@ Mais l'objectif le plus essentiel consiste à proposer une édition qui respecte
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/heidelberg.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
 
 #### Première étape : désessentialiser l'AP
 
@@ -299,6 +306,7 @@ En déplaçant notre attention du texte à la forme anthologique, nous avons con
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/heidelberg.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
 
 #### 2e étape : s'extraire de l'édition critique
 
@@ -311,6 +319,7 @@ Nous avons ainsi fait le choix de déposer nos transcriptions et traductions sur
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/anthologie1.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
 
 #### 3e étape : multiplier et ouvrir les versions
 
@@ -343,6 +352,8 @@ Par exemple, à partir d'Anthologia, nous avons réalisé un premier affichage p
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/900px-APpromenade2.png" data-background-size="contain" -->
 
+
+===
 Ces parcours peuvent être visualisés via une autre plateforme, baptisée "POP",conçue par des étudiants de l'école HETIC (des étudiants peu sensibilisés aux enjeux de l'édition savante, mais disposant de compétences en design numérique, qui se sont immédiatement emparés des textes pour proposer une interface de lecture).
 
 
@@ -403,7 +414,7 @@ Les rétrospectives que Google réalise chaque année à travers un montage en i
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/Google.mp4" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/INAyoutube.png" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 
@@ -420,26 +431,29 @@ Dans son ouvrage Qu'est-ce que le patrimoine numérique ? Matteo Treleani mentio
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/Branche.png" data-background-size="contain" -->
-
-## Éloge de la mémoire… et de l’oubli
-
-===
-À quoi sert donc encore la mémoire dans un univers où tout est stocké et rendu (en apparence) accessible ? L’oubli est-il un risque définitivement dépassé, au point d’être devenu un droit à conquérir ? Si l’on peut louer l’ouverture et la diffusion massive des archives, qui ont littéralement envahi notre quotidien, un paradoxe ne tarde pas à surgir : à vouloir ainsi « s’approprier […] quelque chose qui garde tout son intérêt précisément dans le fait de différer du présent », n’est-on pas en train de modifier profondément le passé - dont l’écart, la différence, l’étrangeté ne cessent de se réduire ? Si le profil Facebook d’un poilu comprend une valeur heuristique certaine, et permet à toute une génération de s’approprier des documents, une histoire, une mémoire, l’anachronisme d’un tel dispositif a forcément un impact sur la représentation et l’expérience du temps. Tandis que l’analogie entre « appropriation des archives » et « appropriation du passé » ne cesse de grandir, on peut s’interroger finalement sur les conséquences épistémologiques de cette nouvelle forme de « domestication du temps ».
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/inaActu.png" data-background-size="contain" -->
 
-===
-Le numérique, à cet égard, conclut un mouvement d’invasion et de gestion de notre quotidien qui a en fait traversé toute l’histoire des technologies et des médias modernes. Depuis l’invention de l’électricité, qui nous a « permis » de travailler de plus longues journées, jusqu’à celle de l’IPhone qui nous a rendus joignables et disponibles en tout temps, nous nous sommes progressivement laissés aller à une « mobilisation totale5 » pour reprendre le concept de Ferraris (2014). Nos villes contemporaines, fonctionnant 24h/24, 7j/7, encouragent la perception d’un temps continu, voire d’un non-temps. Si, en apparence, cette présentification semble inconciliable avec la nature même de l’archive - qui se situe d’abord, comme on l’a vu, dans une tension entre passé et présent - l’inflation patrimoniale (Heinich 2009) à laquelle nous avons assisté ces dernières années relève surtout d’une forme de présentisme : « le fait de “tout archiver” est une manière de présentifier le passé, de le rendre matériellement disponible dans le présent, mais elle se développe aussi dans la singularité du rapport au passé. » (p. 84)
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/myGoogleSearchHistory.png" data-background-size="contain" -->
-
+## Remarques conclusives : éloge de la mémoire… et de l’oubli
+* Invasion des archives dans notre quotidien : le passé fait l'actualité
+* Une domestication du temps où la distinction passé/présent/futur se dissout
+* Une présentification de l'archive qui questionne la fonction même de l'archive
 
 ===
+À quoi sert donc encore la mémoire dans un univers où tout est stocké et rendu (en apparence) accessible ? L’oubli est-il un risque définitivement dépassé, au point d’être devenu un droit à conquérir ?
 
-Ainsi domestiqué et numérisé, le passé n’est-il pas amputé de sa signification essentielle ? On peut en effet s’inquiéter de voir peu à peu s’effacer l’étrangeté du temps passé - ce sentiment d’un monde disparu rendu inaccessible en raison de notre inscription dans le présent, « cette forme de distance qui nous sépare et, en même temps, nous permet de saisir un autre monde que le nôtre » (p. 90). Il en va de même pour l’oubli, « impensé et impensable de la technique et de la culture numérique » (Doueihi, 2001, 155), que nous avons lui-même cherché à oublier. L’idée, bientôt la conviction, que rien ne s’effacerait sur le web, que la moindre trace y resterait à jamais inscrite, et que ces traces sont le réel, s’est vite répandue dans les esprits. Or « [e]nvisager le tout-archive comme une mémoire sans perte est le véritable problème », autant parce que cette pensée pèche par excès de confiance en la mémoire supposée exhaustive du web (la nouvelle mythologie du big data par exemple), que parce que la mémoire n’a, par définition, aucun intérêt sans l’activité herméneutique qui permet d’en extraire un sens.
+Si l’on peut louer l’ouverture et la diffusion massive des archives, qui ont littéralement envahi notre quotidien, un paradoxe ne tarde pas à surgir : à vouloir ainsi « s’approprier […] quelque chose qui garde tout son intérêt précisément dans le fait de différer du présent », n’est-on pas en train de modifier profondément le passé - dont l’écart, la différence, l’étrangeté ne cessent de se réduire ?
+
+Si le profil Facebook d’un poilu comprend une valeur heuristique certaine, et permet à toute une génération de s’approprier des documents, une histoire, une mémoire, l’anachronisme d’un tel dispositif a forcément un impact sur la représentation et l’expérience du temps. Tandis que l’analogie entre « appropriation des archives » et « appropriation du passé » ne cesse de grandir, on peut s’interroger finalement sur les conséquences épistémologiques de cette nouvelle forme de « domestication du temps ».
+
+
+Le numérique, à cet égard, conclut un mouvement d’invasion et de gestion de notre quotidien qui a en fait traversé toute l’histoire des technologies et des médias modernes.
+
+Nos villes contemporaines, fonctionnant 24h/24, 7j/7, encouragent la perception d’un temps continu, voire d’un non-temps. Si, en apparence, cette présentification semble inconciliable avec la nature même de l’archive - qui se situe d’abord, comme on l’a vu, dans une tension entre passé et présent - l’inflation patrimoniale (Heinich 2009) à laquelle nous avons assisté ces dernières années relève surtout d’une forme de présentisme : « le fait de “tout archiver” est une manière de présentifier le passé, de le rendre matériellement disponible dans le présent, mais elle se développe aussi dans la singularité du rapport au passé. » (p. 84)
+
+
+Ainsi domestiqué et numérisé, le passé n’est-il pas amputé de sa signification essentielle ? On peut en effet s’inquiéter de voir peu à peu s’effacer l’étrangeté du temps passé - ce sentiment d’un monde disparu rendu inaccessible en raison de notre inscription dans le présent. Il en va de même pour l’oubli, que nous avons lui-même cherché à oublier.
+
+L’idée, bientôt la conviction, que rien ne s’effacerait sur le web, que la moindre trace y resterait à jamais inscrite, et que ces traces sont le réel, s’est vite répandue dans les esprits. Or pour Matteo Treleani, « [e]nvisager le tout-archive comme une mémoire sans perte est le véritable problème », autant parce que cette pensée pèche par excès de confiance en la mémoire supposée exhaustive du web (la nouvelle mythologie du big data par exemple), que parce que la mémoire n’a, par définition, aucun intérêt sans l’activité herméneutique qui permet d’en extraire un sens.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mcdonalds-bigmac-indemodable-1980x762.jpg" data-background-size="contain" -->
@@ -447,7 +461,7 @@ Ainsi domestiqué et numérisé, le passé n’est-il pas amputé de sa signific
 
 ===
 
-On se posera enfin une dernière question : si l’archive n’est pas tant une représentation qu’une construction, alors la redéfinition contemporaine du concept de passé - qui passe notamment par de nouvelles formes de gestion des archives - vient surtout produire des représentations plus ou moins inédites de nous-mêmes (de nos sociétés, du monde, de l’humanité). Or ces représentations doivent, elles aussi, être analysées, questionnées, critiquées. Leur origine doit être soigneusement identifiée et disséquée. Dans sa rétrospective annuelle, il est ainsi évident que Google opère un choix parmi une série de récits et d’autoreprésentations. Google n’est certainement pas dupe de l’objectivité prônée dans son discours : le monde tel qu’il apparaît dans ces capsules vidéo de deux minutes vient mettre en avant, avec beaucoup d’exaltation d’ailleurs, certaines valeurs plus que d’autres. Ce que réalise ici Google, nos institutions patrimoniales traditionnelles pourraient-elles seulement le faire avec la même efficacité ? Il s’agit là en tout cas d’une mission fondamentale, à laquelle une réponse collective doit être donnée.
+On se posera enfin une dernière question pour ouvrir le débat : si l’archive n’est pas tant une représentation qu’une construction, alors la redéfinition contemporaine du concept de passé - qui passe notamment par de nouvelles formes de gestion des archives - vient surtout produire des représentations plus ou moins inédites de nous-mêmes (de nos sociétés, du monde, de l’humanité). Or ces représentations doivent, elles aussi, être analysées, questionnées, critiquées. Leur origine doit être soigneusement identifiée et disséquée. Dans sa rétrospective annuelle, il est ainsi évident que Google opère un choix parmi une série de récits et d’autoreprésentations. Google n’est certainement pas dupe de l’objectivité prônée dans son discours : le monde tel qu’il apparaît dans ces capsules vidéo de deux minutes vient mettre en avant, avec beaucoup d’exaltation d’ailleurs, certaines valeurs plus que d’autres. Ce que réalise ici Google, nos institutions patrimoniales traditionnelles pourraient-elles seulement le faire avec la même efficacité ? Il s’agit là en tout cas d’une mission fondamentale, à laquelle une réponse collective doit être donnée.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/rondepierre.png" data-background-size="contain" -->
