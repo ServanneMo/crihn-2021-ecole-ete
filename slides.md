@@ -283,7 +283,7 @@ L'Anthologie Palatine est un recueil d'épigrammes grecques dont la composition 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/heidelberg.png" data-background-size="contain" -->
 
-
+===
 Sa valeur patrimoniale est inestimable : c'est grâce à cet ouvrage que certains poèmes de l'Antiquité grecque sont parvenus jusqu'à nous. La quasi-totalité de cette anthologie est compilée dans le Codex Palatinus 23, conservé à la bibliothèque d'Heidelgerg qui en a proposé une numérisation en libre accès.
 
 Ce manuscrit a connu plusieurs transcriptions et traductions au cours de son histoire, sans que les scholies -- ces commentaires en marge du texte -- ne soient systématiquement intégrées à ces traductions.
@@ -432,6 +432,7 @@ Dans son ouvrage Qu'est-ce que le patrimoine numérique ? Matteo Treleani mentio
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/inaActu.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
 
 ## Remarques conclusives : éloge de la mémoire… et de l’oubli
 * Invasion des archives dans notre quotidien : le passé fait l'actualité
