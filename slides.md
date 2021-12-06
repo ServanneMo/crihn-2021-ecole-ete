@@ -78,16 +78,57 @@ Mais n'allons pas trop vite en besogne. Revenons si vous le voulez bien quelques
 
 Dans les institutions patrimoniales, c'est alors le branle-bas-de-combat. Partout se mettent en place des politiques de numérisation massive, qui fait entrer l'archive et le patrimoine dans le paradigme de l'accès. Gallica, Européana, INA, Canadiana... beaucoup de noms en "a" pour des plateformes institutionnelles où les collection sont rendues accessibles au public.
 
-Je parle ici d'institutions publiques, mais parallèlement, des initiatives privées se sont lancées dans la courses avec, il faut le dire, bien plus de moyen que la BNF ou la BANQ, par exemple. Évidemment, il y a Google, avec son initiative Google Books, ou Google Archive. Google est un exemple sur lequel j'aimerais revenir un peu plus tard, car il permet de bien comprendre ce qui est en jeu avec le concept d'éditorialisation du passé (qui est aussi, on le verra, une éditorialisation du présent et sans doute du futur).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/chiffresGallicamai2021.png" data-background-size="contain" -->
+
+
+===
+
+Politique du chiffre...
+
+Je parle ici d'institutions publiques, mais parallèlement, des initiatives privées se sont lancées dans la courses avec, il faut le dire, bien plus de moyen que la BNF, par exemple. Évidemment, il y a Google, avec son initiative Google Books, ou Google Archive. Google est un exemple sur lequel j'aimerais revenir un peu plus tard, car il permet de bien comprendre ce qui est en jeu avec le concept d'éditorialisation du passé (qui est aussi, on le verra, une éditorialisation du présent et sans doute du futur).
 
 En s'appuyant sur une volonté manifeste de sauvegarder et de partager des collections afin de mieux en assurer la diffusion, les grandes entreprises de numérisation ont perpétué les valeurs fondamentales de la patrimonialisation, tout en provoquant, déjà, des changements importants dans la mission et le fonctionnement des institutions qui en ont la charge : là où l'usager a toujours été invité à venir profiter des fonds patrimoniaux -- archives, bibliothèques, musées, etc. --, ce sont ces derniers qui, aujourd'hui, se rendent directement jusqu'à l'usager.
 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/googlebooks.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
+
 Évidemment, ce paradigme de l'accès n'est pas exempt de toute critique:
-- la pertinence, tout d'abord, des collections numérisées a pu être questionnées. Il était intéressant de voir combien les institutions patrimoniales se sont trouvées face à des choix complexes. Que numériser en premier ? Quelle édition / quelle version privilégier pour une même oeuvre ? GoogleBooks a été très critiqué sur ce point par Robert Darnton. GoogleBooks s'appuie en effet sur une conception très dématérialisée des textes. Pour n'importe quel titre, ils choisissent un item: comme si seul le texte importait, et qu'une édition pouvait en valoir une autre. Or on sait bien que c'est beaucoup plus complexe. Les objets culturels : les livres, mais aussi les films, les chansons, peuvent connaître de nombreux états et versions différentes qui changent parfois drastiquement le sens de l'oeuvre. Si vous êtes mélomane, vous voyez bien de quoi je parle: une version en concert n'est pas la même chose qu'une version en studio, ou même symphonique, etc. Et pourtant ce sera la même chanson. En littérature c'est pareil: si vous prenez la première édition du coup de Dé de Mallarmé, elle n'a rien à voir avec l'édition inialement prévue par Mallarmé (édition numérisée chez Gallica, d'ailleurs). Il a existé près de 6 versions des Fleurs du mal de Rimbaut avant la version "complète" que nous connaissons. Bref.
+- la pertinence, tout d'abord, des collections numérisées a pu être questionnées. Il était intéressant de voir combien les institutions patrimoniales se sont trouvées face à des choix complexes. Que numériser en premier ? Quelle édition / quelle version privilégier pour une même oeuvre ?
+
+  GoogleBooks a été très critiqué sur ce point par Robert Darnton. GoogleBooks s'appuie en effet sur une conception très dématérialisée des textes.
+
+  Pour n'importe quel titre, ils choisissent un item: comme si seul le texte importait, et qu'une édition pouvait en valoir une autre. Or on sait bien que c'est beaucoup plus complexe. Les objets culturels : les livres, mais aussi les films, les chansons, peuvent connaître de nombreux états et versions différentes qui changent parfois drastiquement le sens de l'oeuvre. Si vous êtes mélomane, vous voyez bien de quoi je parle: une version en concert n'est pas la même chose qu'une version en studio, ou même symphonique, etc. Et pourtant ce sera la même chanson. En littérature c'est pareil: si vous prenez la première édition du coup de Dé de Mallarmé, elle n'a rien à voir avec l'édition initialement prévue par Mallarmé (édition numérisée chez Gallica, d'ailleurs). Il a existé près de 6 versions des Fleurs du mal de Rimbaud avant la version "complète" que nous connaissons. Bref.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gallicaUzaneRobida.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
 
 - la qualité des numérisation a aussi été critiquée. Pb du "format image": le texte n'est pas manipulable, il n'est même pas toujours lisible. C'est une photo.
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/retronews.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+===
+
 - problème de l'ouverture et du modèle économique. À l'INA, ce sont des abonnements. Retronews, le service d'archive des journaux de la BNF, fonctionne aussi sur abonnement. Certains contenus sont payants et d'autres non.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/retronewsVousAvezGagne.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/chiffresGallicamai2021.png" data-background-size="contain" -->
