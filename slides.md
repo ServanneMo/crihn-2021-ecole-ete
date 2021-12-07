@@ -95,7 +95,6 @@ En s'appuyant sur une volonté manifeste de sauvegarder et de partager des colle
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/googlebooks.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 
 ===
@@ -110,7 +109,6 @@ En s'appuyant sur une volonté manifeste de sauvegarder et de partager des colle
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/gallicaUzaneRobida.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 
 ===
@@ -120,7 +118,6 @@ En s'appuyant sur une volonté manifeste de sauvegarder et de partager des colle
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/retronews.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 
 ===
